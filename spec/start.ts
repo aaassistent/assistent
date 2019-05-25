@@ -1,3 +1,5 @@
+import {method} from '../src/backend';
+
 describe('start', () => {
-    it('', () => expect(true).toBe(true));
+    it('', () => expect(method()).toEqual({}));
 });
