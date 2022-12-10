@@ -5,7 +5,7 @@
         "test": "ts-node ./node_modules/.bin/jasmine"
     },
     "dependencies": {
-        "express": "^4.17.0",
+        "express": "^4.17.3",
         "telegraf": "^3.29.0"
     },
     "devDependencies": {
